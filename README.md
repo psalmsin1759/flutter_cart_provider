@@ -74,4 +74,4 @@ Create a new widget to display the shopping cart. You can use a ListView or any 
 
 Test your shopping cart thoroughly. Check if items are added correctly, if quantities update as expected, and if the total price is calculated accurately.
 
-- Complete code available on Github [https://github.com/psalmsin1759/flutter_cart_provider](https://github.com/psalmsin1759/flutter_cart_provider) here.
+- Checkout my blog [https://samsonude.dev/blog](https://samsonude.dev/blog) here.
