@@ -3,6 +3,7 @@
 ## Introduction:
 
 In the world of mobile app development, creating a shopping cart is a fundamental feature for e-commerce applications. Flutter, with its rich ecosystem of packages, provides an excellent framework for building robust and user-friendly shopping carts. In this step-by-step guide, we'll walk you through the process of implementing a shopping cart system in Flutter using the Provider package.
+To make it even more realistic, we'll fetch sample products from the [FakeStoreAPI](https://fakestoreapi.com/products) to populate your shopping cart and showcase its functionality.
 
 <img src="screenshots/header1.png" alt="header1" />
 
